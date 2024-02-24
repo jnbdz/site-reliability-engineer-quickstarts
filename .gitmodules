@@ -1,0 +1,3 @@
+[submodule "Books/building-secure-and-reliable-systems"]
+	path = Books/building-secure-and-reliable-systems
+	url = git@github.com:google/building-secure-and-reliable-systems.git
