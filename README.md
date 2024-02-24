@@ -9,9 +9,10 @@ Site Reliability Engineer Quickstarts!
 - [Site Reliability Engineering (SRE) | Google](https://sre.google/)
   - Free eBooks ([SRE Books](https://sre.google/books/)): 
     - [Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html)
-      - **Amazon:** [Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems](https://www.amazon.ca/Building-Secure-Reliable-Systems-Implementing/dp/1492083127/)
+      - [Amazon](https://www.amazon.ca/Building-Secure-Reliable-Systems-Implementing/dp/1492083127/)
     - [The Site Reliability Workbook: Practical Ways to Implement SRE](https://sre.google/workbook/table-of-contents/)
-      - **Amazon:** [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.ca/Site-Reliability-Workbook-Practical-Implement/dp/1492029505/)
+      - [Amazon](https://www.amazon.ca/Site-Reliability-Workbook-Practical-Implement/dp/1492029505/)
     - [Site Reliability Engineering: How Google Runs Production Systems](https://sre.google/sre-book/table-of-contents/)
-      - **Amazon:** [Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.ca/Site-Reliability-Engineering-Production-Systems/dp/149192912X/)
+      - [./Books/](./Books/building-secure-and-reliable-systems)
+      - [Amazon](https://www.amazon.ca/Site-Reliability-Engineering-Production-Systems/dp/149192912X/)
       - **Updates:** [SRE Book Updates!](https://sre.google/resources/book-update/)
